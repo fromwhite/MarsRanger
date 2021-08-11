@@ -1,4 +1,4 @@
 # MarsRanger
 
-> NASA mars helicopter ingenuity   
+> NASA mars helicopter  
 > Open.HD FPV on coaxial oars helicopter,with nvidia jetson.
