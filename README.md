@@ -1,6 +1,6 @@
 # MarsRanger
 
-> NASA ingenuity mars helicopter homemade.  
+> DIY NASA ingenuity mars helicopter.  
 > Open.HD FPV on coaxial oars helicopter,with nvidia jetson.
 
 ![Ingenuity](https://raw.githubusercontent.com/unbelief/MarsRanger/master/assets/screenshot/IMG_9293.JPG)
